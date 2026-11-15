@@ -1,6 +1,9 @@
-# Base de dados
+**Arquivo:** `dados/co-emissions-per-capita.csv`
 
-Este diretório contém a base de dados utilizada no projeto.
+**Tabela utilizada no SQLite:** `emissoes_co2`
 
-Fonte: Our World in Data
-Indicador: CO₂ emissions per capita
+**Colunas utilizadas nas consultas:**
+- `country`
+- `code`
+- `year`
+- `co2_pc`
