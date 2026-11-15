@@ -1,3 +1,15 @@
+**Arquivo utilizado:** `dados/co-emissions-per-capita.csv`
+
+**Tabela no SQLite:** `emissoes_co2`
+
+**Colunas utilizadas:**
+- `country`
+- `code`
+- `year`
+- `co2_pc`
+
+A base original foi importada para o SQLite e as colunas foram renomeadas para facilitar as consultas.
+
 # Análise de emissões de CO₂ per capita utilizando SQL
 
 ## Sobre o projeto
