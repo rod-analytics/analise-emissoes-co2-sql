@@ -1,0 +1,4 @@
+-- Projeto: Análise de emissões de CO2 per capita
+-- Ferramenta: SQLite, Dbeaver
+-- Fonte: Our World in Data
+-- Objetivo: Praticar consultas SQL do Módulo 1.
