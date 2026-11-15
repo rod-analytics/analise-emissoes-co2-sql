@@ -35,8 +35,17 @@ O trabalho foi desenvolvido como exercício prático dos conhecimentos introdut�
 
 ## Base de dados
 
-A base utilizada contém informações sobre emissões de CO₂ per capita, organizadas por país ou território e ano.
+**Arquivo utilizado:** `dados/co-emissions-per-capita.csv`
 
+**Tabela no SQLite:** `emissoes_co2`
+
+**Colunas utilizadas:**
+- `country`
+- `code`
+- `year`
+- `co2_pc`
+
+A base original foi importada para o SQLite e as colunas foram renomeadas para facilitar as consultas.
 **Fonte:** [Our World in Data — CO₂ emissions per capita](https://ourworldindata.org/grapher/co-emissions-per-capita)
 
 A métrica representa toneladas de CO₂ por pessoa ao ano. O indicador considera emissões provenientes de combustíveis fósseis e da indústria, não incluindo mudanças no uso da terra.
